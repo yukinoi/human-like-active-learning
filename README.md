@@ -1,5 +1,5 @@
 # human-like-active-learning
-[Entropy 2020](https://www.mdpi.com/1099-4300/22/8/906/htm#) From Knowledge Transmission to Knowledge Construction: A Step towards Human-Like Active Learning
+[Entropy 2020:](https://www.mdpi.com/1099-4300/22/8/906/htm#) From Knowledge Transmission to Knowledge Construction: A Step towards Human-Like Active Learning
 
 Deep neural networks are not good at telling when they are not sure while working in an active learning environment.
 They have grown so complex that it seems impossible to follow their decision-making processes.
